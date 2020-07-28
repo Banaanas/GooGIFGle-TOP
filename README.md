@@ -27,7 +27,7 @@
 <br/>
 <p align="center">
     <a href="https://banaanas.github.io/GooGIFGle-TOP/">
-        <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="100" height="100">
+        <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
 
