@@ -55,7 +55,7 @@
 <!-- TABLE OF CONTENTS -->
 
 ## About the Project
-Search GIFS Application achieved as part of <a href="https://www.theodinproject.com/courses/javascript/lessons/working-with-apis">The Odin Project - JavaScript curriculum</a>.
+Search GIFS Application achieved as part of <a href="https://www.theodinproject.com/">he Odin Project - JavaScript curriculum</a>.
 
 <p align="center">
   <a href="https://banaanas.github.io/GooGIFGle-TOP/">
