@@ -90,6 +90,7 @@ Responsive Design - Flexbox - Media Queries
 - [ESLint](https://eslint.org/)
 - [stylelint](https://stylelint.io/)
 - [Giphy](https://developers.giphy.com/)
+- [axios](https://github.com/axios/axios)
 
 
 <!-- GETTING STARTED -->
