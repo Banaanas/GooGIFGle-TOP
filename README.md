@@ -79,7 +79,7 @@ Search GIFS Application achieved as part of <a href="https://www.theodinproject.
 
 - [Vanilla JavaScript](http://vanilla-js.com/)
 
-ES6 - Async / Await - Try...Catch - API (Giphy)
+ES6 - Async / Await - Try...Catch - API (axios)
 - [HTML5](https://www.w3.org/html/)
 - [CSS3](https://www.w3.org/Style/CSS/Overview.html)
 
