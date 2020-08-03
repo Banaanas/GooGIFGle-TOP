@@ -59,7 +59,7 @@ Search GIFS Application achieved as part of <a href="https://www.theodinproject.
 
 <p align="center">
   <a href="https://banaanas.github.io/GooGIFGle-TOP/">
-    <img src="src/images/README/screenshot-1.png" alt="Screenshot" width="455" height="350">
+    <img src="src/images/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="350">
   </a>
 </p>
 
@@ -71,7 +71,7 @@ Search GIFS Application achieved as part of <a href="https://www.theodinproject.
 
 <p align="center">
   <a href="https://banaanas.github.io/GooGIFGle-TOP/">
-    <img src="src/images/README/screenshot-2.png" alt="Screenshot" width="280" height="500">
+    <img src="src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
 
