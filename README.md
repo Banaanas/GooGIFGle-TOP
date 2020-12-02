@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-    <a href="https://googifgle/">
+    <a href="https://googifgle.cyrilo.app">
         <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
@@ -35,7 +35,7 @@
 
 <p align="center">
     Cute and funny Search GIFS Application.<br/><br/>
-    <a href="https://googifgle/">:computer: Live Demo :eyes:</a><br/><br/>
+    <a href="https://googifgle.cyrilo.app">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
 
@@ -58,7 +58,7 @@
 Search GIFS Application achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
 
 <p align="center">
-  <a href="https://googifgle/">
+  <a href="https://googifgle.cyrilo.app">
     <img src="src/images/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="350">
   </a>
 </p>
@@ -70,7 +70,7 @@ Search GIFS Application achieved as part of <a href="https://www.theodinproject.
 - Responsive Design.
 
 <p align="center">
-  <a href="https://googifgle/">
+  <a href="https://googifgle.cyrilo.app">
     <img src="src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
