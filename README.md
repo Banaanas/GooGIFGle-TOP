@@ -142,7 +142,7 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 
 ## Contact
 
-Cyrilo - [Personal Website](https://cyrilo.dev) - cyrildeveloppeur@gmail.com
+Cyrilo - [Personal Website](https://cyrilo.dev) - [Mail](mailto:cyrilo.dev@gmail.com)
 
 Project Link: [https://github.com/Banaanas/GooGIFGle-TOP](https://github.com/Banaanas/GooGIFGle-TOP)
 
