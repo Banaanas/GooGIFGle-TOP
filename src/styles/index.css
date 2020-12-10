@@ -72,12 +72,21 @@ span {
   color: var(--primary-dark-color);
 }
 
-img {
+#gif-display-image {
+  display: none;
   width: 20rem;
   height: 12rem;
   margin-top: 0.5rem !important;
   border: solid 5px var(--primary-text-color) !important;
   border-radius: 15px;
+}
+
+#waiting-icon {
+  display: flex;
+  width: 8rem;
+  height: 12rem;
+  border: none !important;
+  animation: rotate 1000ms infinite linear;
 }
 
 button {
@@ -98,6 +107,16 @@ button {
 button:hover {
   background-color: var(--primary-text-color);
   transform: scale(1.2);
+}
+
+/* Teddy Bear Animation */
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 @media (min-width: 600px) {

@@ -4,28 +4,51 @@ import "regenerator-runtime/runtime";
 // Import stylesheets
 import "./styles/index.css";
 import "./styles/normalize.css";
-// Import error icon
+// Import Icons
 import errorIcon from "./images/error.jpg";
+import teddyBearIcon from "./images/teddy-bear.svg";
 // Random Words NPM library
 const randomWords = require("random-words");
 
-// Select img DOM
-const imageGif = document.querySelector("img");
+// Select H1
+const titleH1 = document.querySelector("h1");
+
+// Create and Append waitingIcon
+const waitingIcon = document.createElement("img");
+waitingIcon.id = "waiting-icon";
+waitingIcon.src = teddyBearIcon;
+titleH1.insertAdjacentElement("afterend", waitingIcon);
+
+// Create and Append imageGif
+const imageGif = document.createElement("img");
+imageGif.id = "gif-display-image";
+titleH1.insertAdjacentElement("afterend", imageGif);
 
 // Init Page Gif Function
 const initPageGif = async () => {
   const initRandomWord = randomWords();
-  const initGif = await fetch(
-    `https://api.giphy.com/v1/gifs/translate?api_key=v1gBLxTmDjjqtOKz5KYJ8vEpDNdkanzT&s=${initRandomWord}`,
-    {
-      mode: "cors",
-    },
-  );
-  const gifLinkObject = await initGif.json();
-  imageGif.src = gifLinkObject.data.images.original.url;
+  try {
+    waitingIcon.remove();
+    const initGif = await fetch(
+      `https://api.giphy.com/v1/gifs/translate?api_key=v1gBLxTmDjjqtOKz5KYJ8vEpDNdkanzT&s=${initRandomWord}`,
+      {
+        mode: "cors",
+      },
+    );
+
+    const gifLinkObject = await initGif.json();
+    imageGif.src = gifLinkObject.data.images.original.url;
+    imageGif.style.display = "flex";
+  } catch (e) {
+    imageGif.style.display = "flex";
+    imageGif.src = errorIcon;
+  }
 };
-// Execute Init Page Gif Function
-initPageGif();
+
+// Execute Init Page Gif Function after some Delay
+setTimeout(() => {
+  initPageGif();
+}, 1000);
 
 // Add Event Listener to the Change Gif Button
 const button = document.querySelector("button");

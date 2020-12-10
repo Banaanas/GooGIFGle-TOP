@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h1 align="center">:panda_face: GooGIFGle :koala:</h1>
+<h1 align="center">🐼 GooGIFGle 🐨</h1>
 
 <p align="center">
     Cute and funny Search GIFS Application.<br/><br/>
