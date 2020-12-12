@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h1 align="center">🐼 GooGIFGle 🐨</h1>
+<h1 align="center">🐼 GooGIIFGle 🐨</h1>
 
 <p align="center">
     Cute and funny Search GIFS Application.<br/><br/>
