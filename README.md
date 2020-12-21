@@ -52,7 +52,8 @@
 - [License](#license)
 - [Contact](#contact)
 
-<!-- TABLE OF CONTENTS -->
+
+<!-- ABOUT THE PROJECT -->
 
 ## About the Project
 Search GIFS Application achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
@@ -64,6 +65,8 @@ Search GIFS Application achieved as part of <a href="https://www.theodinproject.
 </p>
 
 
+<!-- PRINCIPAL FEATURES -->
+
 #### Principal Features
 - Search GIFs ;
 - Random GIFs ;
@@ -74,6 +77,9 @@ Search GIFS Application achieved as part of <a href="https://www.theodinproject.
     <img src="./src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
+
+
+<!-- BUILT WITH -->
 
 #### Built With
 
@@ -148,9 +154,7 @@ Project Link: [https://github.com/Banaanas/GooGIFGle-TOP](https://github.com/Ban
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
-- [GitHub Pages](https://pages.github.com)
-- [Flaticon](https://www.flaticon.com/)
-- [Material Icons](https://material.io/resources/icons/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
