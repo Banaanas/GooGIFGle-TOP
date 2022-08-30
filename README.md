@@ -83,20 +83,11 @@ Search GIFS Application achieved as part of <a href="https://www.theodinproject.
 
 #### Built With
 
-- [Vanilla JavaScript](http://vanilla-js.com/)
-
-ES6 - Async / Await - Try...Catch - API (axios)
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3.org/Style/CSS/Overview.html)
-
-Responsive Design - Flexbox - Media Queries
+- [JavaScript](http://vanilla-js.com/)
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.html)
 - [Webpack](https://webpack.js.org/)
-- [Babel](https://babeljs.io/)
-- [core-js](https://github.com/zloirock/core-js)
-- [ESLint](https://eslint.org/)
-- [stylelint](https://stylelint.io/)
 - [Giphy](https://developers.giphy.com/)
-- [axios](https://github.com/axios/axios)
 
 
 <!-- GETTING STARTED -->
